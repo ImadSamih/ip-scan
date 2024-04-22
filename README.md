@@ -49,11 +49,8 @@ $ git clone https://github.com/ImadSamih/ip-scan.git
 ##
 
 <h3 align="center">
-:: Workflow ::
+:: @emadssamih ::
 </h3>
-<p align="center">
-<img src=""/>
-</p>
 
 
 
